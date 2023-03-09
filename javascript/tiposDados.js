@@ -12,7 +12,7 @@ let pessoa = {
 }
 
 let frutas = ['banana', 'maça', 'pera', 'uva', 'mamão'];
-let roupa = ['blusa', 30, 'short', 50]
+let roupa = ['blusa', 30, 'short', 50];
 
 console.log(nome.length)
 
